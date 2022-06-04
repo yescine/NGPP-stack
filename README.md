@@ -1,7 +1,12 @@
 # Description
 
-- The **NGP^2** stack (NextJs, GraphQL, Prisma, Postgresql)
-- Along side with Apollo server, Apollo Studio, Prisma Studio, Nexus
+- The **NGP^2** stack (NextJs, GraphQL, Prisma, Postgresql) with TypeScript technologies.
+- Along side with :
+  - Apollo server
+  - Apollo Studio
+  - Prisma Studio
+  - Nexus
+  - ApolloClient
 
 ## Awesome Links - part-1
 
